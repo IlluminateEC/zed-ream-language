@@ -1,0 +1,11 @@
+id = "zed-ream-language"
+name = "Zed Ream Language"
+version = "0.0.1"
+schema_version = 1
+authors = ["Khaumi <Khaumi@khaumi.com>"]
+description = "Language support for Ream"
+repository = "https://github.com/khaumi/zed-ream-language"
+
+[grammers.ream]
+repository = "file:///home/jebkerman/git/tree-sitter-ream"
+rev = "fe7084909142c44934f36afaf4db908c40d5a712"

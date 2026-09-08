@@ -1,0 +1,6 @@
+name = "Ream"
+grammar = "ream"
+path_suffix = "ream"
+line_comments = ["//"]
+hard_tabs = true
+tab_size = 4

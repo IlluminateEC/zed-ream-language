@@ -1,0 +1,14 @@
+{
+  "$schema": "https://zed.dev/schema/icon_themes/v0.3.0.json",
+  "author": "Khaumi",
+  "name": "Ream Icons",
+  "themes": [
+    {
+      "name": "Ream Default",
+       "appearance": "dark",
+       "file_suffixes": {
+
+       }
+    }
+  ]
+}
