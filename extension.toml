@@ -8,4 +8,4 @@ repository = "https://github.com/khaumi/zed-ream-language"
 
 [grammars.ream]
 repository = "https://github.com/IlluminateEC/tree-sitter-ream.git"
-rev = "65564b241cf16fc4ae397c3ea8ad2e973cf86dc1"
+rev = "5b93f84d2c9d71dbf1e33694ee10fa154682c025"
