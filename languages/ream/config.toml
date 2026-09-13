@@ -1,6 +1,6 @@
-name = "Ream"
+name = "REAM"
 grammar = "ream"
-path_suffix = "ream"
+path_suffixes = ["ream"]
 line_comments = ["//"]
 hard_tabs = true
 tab_size = 4

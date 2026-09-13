@@ -7,7 +7,10 @@
       "name": "Ream Default",
        "appearance": "dark",
        "file_suffixes": {
-
+         "ream": "ream"
+       },
+       "file_icons": {
+         "ream": { "path": "./icons/ream_icon_mono.svg"}
        }
     }
   ]
